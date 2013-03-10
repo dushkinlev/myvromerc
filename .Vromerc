@@ -1,2 +1,2 @@
-map ,h :open http://www.google.ru
+map ,h :http://www.google.ru<CR>
 set useletters=1
