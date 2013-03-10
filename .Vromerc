@@ -1,1 +1,2 @@
-map j 10j
+map gh :open http://google.ru
+set useletters=1
